@@ -1,0 +1,92 @@
+
+body {
+  font: 12px/1.231 "Roboto Condensed", "Nanum Barun Gothic", "맑은 고딕", sans-serif;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 0.5px;
+}
+
+.select-page {
+  padding-top: 175px;
+  margin: 0 auto;
+  width: 900px;
+  text-align: center;
+}
+.select-page h1 {
+  margin-bottom: 10px;
+}
+.select-page p {
+  width: 471px;
+  height: 132px;
+  background: url("../images/heading-message.png") 0 0 no-repeat;
+  text-indent: -999em;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.select-page ul {
+  padding-bottom: 220px;
+  margin-left: -10px;
+}
+.select-page ul:after, .select-page ul:before {
+  content: "";
+  display: table;
+}
+.select-page ul:after {
+  clear: both;
+}
+.select-page li {
+  float: left;
+  padding-left: 25px;
+  font-size: 15px;
+  margin-top: 40px;
+}
+.select-page li a {
+  color: #404040;
+  letter-spacing: -0.3px;
+}
+
+.select-page li i {
+  width: 155px;
+  height: 155px;
+  display: block;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+.select-page .select-adwitt i {
+  background: #f2f2f2 url("../images/list-adwitt.png") 50% 50% no-repeat;
+}
+.select-page .select-cafe24 i {
+  background: #f2f2f2 url("../images/list-cafe24.png") 50% 50% no-repeat;
+}
+.select-page .select-facebook i {
+  background: #f2f2f2 url("../images/list-facebook.png") 50% 50% no-repeat;
+}
+.select-page .select-bus-manager i {
+  background: #f2f2f2 url("../images/list-bus-manager.png") 50% 50% no-repeat;
+}
+.select-page .select-kakao i {
+  background: #f2f2f2 url("../images/list-kakao.png") 50% 50% no-repeat;
+}
+.select-page .select-instagram i{
+  background: #f2f2f2 url("../images/list-instagram.png") 50% 50% no-repeat;
+}
+.select-page .select-g-calendar i {
+  background: #f2f2f2 url("../images/list-g-calendar.png") 50% 50% no-repeat;
+}
+.select-page .select-gmail i {
+  background: #f2f2f2 url("../images/list-gmail.png") 50% 50% no-repeat;
+}
+.select-page .select-g-drive i {
+  background: #f2f2f2 url("../images/list-g-drive.png") 50% 50% no-repeat;
+}
+.select-page .select-google i {
+  background: #f2f2f2 url("../images/list-google.png") 50% 50% no-repeat;
+}
+.select-page .select-naver i {
+  background: #f2f2f2 url("../images/list-naver.png") 50% 50% no-repeat;
+}
+footer img{
+  margin-bottom: 50px;
+}
+/*# sourceMappingURL=indexstyle.css.map */
